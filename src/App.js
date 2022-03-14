@@ -1,6 +1,6 @@
 import FundoMobile from "./FundoMobile";
-import Corpo from "./Corpo";
-import Navbar from "./Navbar";
+import Corpo from "./Corpo/Corpo";
+import Navbar from "./Navbar/Navbar";
 
 export default function App(){
 	return(
