@@ -4,7 +4,7 @@ export default function Logo(){
 		<div class="logo">
 			<ion-icon name="logo-instagram"></ion-icon>
 			<Separador/>
-			<img src="assets/img/logo.png" />
+			<img src="assets/img/logo.png" alt=""/>
 		</div>
 	);
 }
